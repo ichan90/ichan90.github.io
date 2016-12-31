@@ -23,6 +23,9 @@ body{
     color: #405871;
 }
 .jumbotron{
+	background-image: url('banner_web.jpg');
+	background-size: 1140px 500px;
+	background-repeat: no-repeat;
 	text-align: center;
 	vertical-align: text-bottom;
 	padding-top: 10px;
@@ -31,6 +34,7 @@ body{
 }
 .jumbotron div{
 	padding-top: 350px;
+	
 }
 .btn-primary {
     color: #fff;
